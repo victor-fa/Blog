@@ -10,6 +10,7 @@
 ## 🌱 最新1篇文章 
   
   - [前端面试总结——基础javascript篇](https://github.com/victor-fa/blog/issues/1)
+  - [前端面试总结——进阶javascript篇](https://github.com/victor-fa/blog/issues/2)
   
 
 ## 🌱 历史文章列表
@@ -17,5 +18,6 @@
  * 其他
  
     * [前端面试总结——基础javascript篇](https://github.com/victor-fa/blog/issues/1)
+    * [前端面试总结——进阶javascript篇](https://github.com/victor-fa/blog/issues/2)
 
  
