@@ -11,6 +11,7 @@
   
   - [前端面试总结——基础javascript篇](https://github.com/victor-fa/blog/issues/1)
   - [前端面试总结——进阶javascript篇](https://github.com/victor-fa/blog/issues/2)
+  - [Electron —— 开发历程](https://github.com/victor-fa/blog/issues/3)
   
 
 ## 🌱 历史文章列表
@@ -19,5 +20,6 @@
  
     * [前端面试总结——基础javascript篇](https://github.com/victor-fa/blog/issues/1)
     * [前端面试总结——进阶javascript篇](https://github.com/victor-fa/blog/issues/2)
+    * [Electron —— 开发历程](https://github.com/victor-fa/blog/issues/3)
 
  
